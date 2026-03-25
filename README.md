@@ -138,7 +138,7 @@ This **Power BI Sales Dashboard** was built to transform raw transaction and cus
 
 ## 🚀 How to Run This Project
 
-### Option 1 Open in Power BI Desktop
+### Option 1 — Open in Power BI Desktop
 ```bash
 # 1. Clone the repository
 git clone https://github.com/YOUR_USERNAME/sales-dashboard-2026.git
