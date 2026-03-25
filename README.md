@@ -7,7 +7,6 @@
 <br/>
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
-[![Made With Love](https://img.shields.io/badge/Made%20With-%E2%9D%A4-red?style=for-the-badge)](#)
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)](#)
 [![Year](https://img.shields.io/badge/Year-2026-blue?style=for-the-badge)](#)
 
