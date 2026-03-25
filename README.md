@@ -15,12 +15,6 @@
 
 ---
 
-## 🌟 Live Demo
-
-<div align="center">
-
----
-
 ## 🎯 What This Project Is About
 
 This **Power BI Sales Dashboard** was built to transform raw transaction and customer data into a clear, interactive story for business decision-makers. It covers **2 years of sales activity** across multiple countries and product categories — giving instant answers to the questions that matter most:
