@@ -10,9 +10,6 @@
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)](#)
 [![Year](https://img.shields.io/badge/Year-2026-blue?style=for-the-badge)](#)
 
-<br/>
-
-> *"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
 </div>
 
@@ -21,14 +18,6 @@
 ## 🌟 Live Demo
 
 <div align="center">
-
-### 👇 Click below to explore the fully interactive dashboard
-
-[![View Dashboard](https://img.shields.io/badge/🚀%20View%20Live%20Dashboard-Click%20Here-F2C811?style=for-the-badge&logoColor=black)](YOUR_POWERBI_PUBLISH_LINK_HERE)
-
-> 📌 Replace the link above after publishing via **Power BI → File → Publish to Web**
-
-</div>
 
 ---
 
