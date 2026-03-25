@@ -138,10 +138,7 @@ This **Power BI Sales Dashboard** was built to transform raw transaction and cus
 
 ## 🚀 How to Run This Project
 
-### Option 1 — View Live (Recommended)
-Click the **Live Dashboard** badge at the top ☝️
-
-### Option 2 — Open in Power BI Desktop
+### Option 2 Open in Power BI Desktop
 ```bash
 # 1. Clone the repository
 git clone https://github.com/YOUR_USERNAME/sales-dashboard-2026.git
@@ -150,7 +147,7 @@ git clone https://github.com/YOUR_USERNAME/sales-dashboard-2026.git
 # 3. File → Open → Scales_Dashboard.pbix
 ```
 
-### Option 3 — Quick Preview (No Software)
+### Option 2 — Quick Preview (No Software)
 Open `Scales_Dashboard.pdf` directly in your browser.
 
 ---
@@ -163,20 +160,6 @@ Open `Scales_Dashboard.pdf` directly in your browser.
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![CSV](https://img.shields.io/badge/CSV-Data-orange?style=flat-square)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-</div>
-
----
-
-## 👤 Author
-
-<div align="center">
-
-**[Your Name]**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
 
 </div>
 
